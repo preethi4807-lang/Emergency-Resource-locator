@@ -1,0 +1,11 @@
+name,type,latitude,longitude,address,phone
+City Care Hospital,Hospital,17.4156,78.4347,Banjara Hills Hyderabad,040-00000001
+Sunrise Hospital,Hospital,17.4399,78.4983,Secunderabad Hyderabad,040-00000002
+Apollo Demo Hospital,Hospital,17.4250,78.4480,Jubilee Hills Hyderabad,040-00000003
+Central Shelter,Shelter,17.3909,78.4760,Abids Hyderabad,040-00000004
+North Shelter,Shelter,17.4399,78.4983,Secunderabad Hyderabad,040-00000005
+Community Shelter,Shelter,17.4000,78.4700,Nampally Hyderabad,040-00000006
+Central Police Station,Police Station,17.3909,78.4760,Abids Hyderabad,100
+North Police Station,Police Station,17.4399,78.4983,Secunderabad Hyderabad,100
+Central Fire Station,Fire Station,17.3909,78.4760,Abids Hyderabad,101
+North Fire Station,Fire Station,17.4399,78.4983,Secunderabad Hyderabad,101
